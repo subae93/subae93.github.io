@@ -16,11 +16,9 @@
     <link rel="canonical" href="http://www.ec.okayama-u.ac.jp/~sense/Terahertz/index.html/"> 
 -->
     
-    <title>MTSA2019</title> 
+    <title>MTSA 2019</title> 
     <style>
-    body {font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 14px;
-    color: #333;
+    body {
     background-color: #fff;
     margin: 0;
     padding: 0;
@@ -36,30 +34,71 @@
        text-align:center;
       font-family: "Cambria", "Serif";}
     
-    p    {color: black;
+    p{color: black;
       font-size: 15px;
       font-family: "Cambria", "Serif";}
 
     #wrapper {
       width: 801px;
-      text-align: left;
-} 
-        
+      text-align: left;} 
+  
+ .column {
+  float: left;
+  padding: 15px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.menu {
+  width: 25%;
+}
+
+.content {
+  width: 75%;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  padding: 8px;
+  margin-bottom: 8px;
+  background-color: #33b5e5;
+  color: #ffffff;
+}
+
+.menu li:hover {
+  background-color: #0099cc;
+}     
 </style>
   </head>
   <body> 
   <div id="wrapper">
    
-   <div id="top">
+  <div id="top">
     <h1>MTSA 2019</h1>
-    <img src="img/mtsa-main.png" alt="Main_picture" style="width:600px;height:auto;border:0;">
-    <ul>
+  <div class="clearfix">
+  <div class="column menu">
+   <ul>
       <li><a class="active" href="#home">Home</a></li>
       <li><a href="#news">News</a></li>
       <li><a href="#contact">Contact</a></li>
       <li><a href="#about">About</a></li>
     </ul>
-    </div>
+  </div>
+
+  <div class="column content">
+    <img src="img/mtsa-main.png" alt="Main_picture" style="width:600px;height:auto;border:0;">
+  </div>
+  </div>
+  </div>
     
     <div id="middle">
       <br>
