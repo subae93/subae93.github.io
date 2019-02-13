@@ -43,58 +43,32 @@
       text-align: left;} 
 
 <!--Navigation Menu -->  
-.column {
-  float: left;
-  padding:0px;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.menu {
-  width: 25%;
-}
-
-.content {
-  width: 75%;
-}
-      
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-  border: 1px solid #555;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
 }
 
 li a {
   display: block;
-  color: #000;
-  padding: 8px 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
-li {
-  text-align: center;
-  border-bottom: 1px solid #555;
-}
-
-li:last-child {
-  border-bottom: none;
-}
-
-li a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
 li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
 }
  <!--bottom -->      
 .img-container {
@@ -114,8 +88,6 @@ li a:hover:not(.active) {
   <div id="wrapper">
    
   <div id="top">
-  <div class="clearfix">
-  <div class="column menu">
    <ul>
       <li><a class="active" href="#Home ">Home</a></li>
       <li><a href="#Abstract Submission">Abstract Submission</a></li>
@@ -127,12 +99,7 @@ li a:hover:not(.active) {
       <li><a href="#Sponsors & Exhibitors">Sponsors & Exhibitors</a></li>
       <li><a href="#Parallel exhibitions, Advertisment & Momentary contribution">Parallel exhibitions, Advertisment & Momentary contribution</a></li>
     </ul>
-  </div>
-
-  <div class="column content">
     <img src="img/mtsa-main.png" alt="Main_picture" style="width:600px;height:auto;border:0;">
-  </div>
-  </div>
   </div>
     
     <div id="middle">
