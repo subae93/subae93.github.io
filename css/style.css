@@ -38,6 +38,9 @@ ul {
   overflow: hidden;
   background-color: #333;
   height:60px;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
 }
 
 li {
@@ -51,7 +54,6 @@ li:last-child {
 }
 
 li a {
- 
   display: block;
   color: white;
   text-align: center;
