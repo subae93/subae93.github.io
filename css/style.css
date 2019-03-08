@@ -123,9 +123,9 @@ li a:hover:not(.active) {
 }
 
 .img-container2 {
-  float: left;
+  float: center;
   width: 32%;
-  padding: 5px;
+  padding: 2px;
 }
 
 .clearfix::after {
