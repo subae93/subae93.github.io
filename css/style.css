@@ -187,3 +187,8 @@ div.desc {
   float: right;
   width: 32%;
 }
+.responsive3 {
+  padding: 0 3px;
+  float: left;
+  width: 20%;
+}
