@@ -48,6 +48,14 @@ p3 {
 }
 pc {
   text-align: center;
+}
+
+p4 {
+  color: lightblue;
+  font-size: 28px;
+  font-family: "Cambria", "Serif";
+  text-align: left;
+  line-height: 28px;
 } 
 
 #wrapper {
