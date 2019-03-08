@@ -121,3 +121,8 @@ li a:hover:not(.active) {
   clear: both;
   display: table;
 }
+.img-container2 {
+  float: left;
+  width: 32%;
+  padding: 5px;
+}
