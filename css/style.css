@@ -122,7 +122,8 @@ li a:hover:not(.active) {
   display: table;
 }
 .img-container2 {
-  float: center;
+  margin: 5px;
+  float: left;
   width: 32%;
-  padding: 20px;
+  padding: 10px;
 }
