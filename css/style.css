@@ -128,8 +128,14 @@ li a:hover:not(.active) {
   display: table;
 }
 .img-position-left {
-  margin-left:5px;
+    margin-left: 100px;
+  padding: 5px;
+  float: left;
+  width: 32%;
 }
 .img-position-rigth {
-  margin-rigth:5px;
+    margin-right: 100px;
+  padding: 5px;
+  float: right;
+  width: 32%;
 }
