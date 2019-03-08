@@ -38,6 +38,11 @@ p2 {
   text-align: justify;
   line-height: 28px;
 }
+
+pc {
+  text-align: center;
+} 
+
 #wrapper {
   width: 800px;
   text-align: left;
