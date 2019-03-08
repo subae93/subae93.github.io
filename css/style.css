@@ -120,7 +120,7 @@ li a:hover:not(.active) {
 
 /* middle */
 #intro {
-  width: 700px;
+  width: 740px;
   text-align: left;
   margin: 0 auto;
 }
@@ -128,7 +128,7 @@ li a:hover:not(.active) {
 #topic {
   width: 740px;
   text-align: left;
-  margin: 0 auto;
+  margin: 1 auto;
 }
 
 /* bottom */
