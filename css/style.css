@@ -56,7 +56,7 @@ p4 {
   font-family: "Cambria", "Serif";
   text-align: left;
   line-height: 28px;
-} 
+}
 
 #wrapper {
   width: 900px;
@@ -68,7 +68,7 @@ p4 {
 ul {
   padding: 0;
   list-style-type: none;
-  margin: 0;
+  margin-left: 50px;
   padding: 0;
   overflow: hidden;
   background-color: #333;
