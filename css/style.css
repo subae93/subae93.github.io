@@ -118,8 +118,9 @@ li a:hover:not(.active) {
   border: 2px solid #000;
 }
 .top-img {
-  padding: 0px;
-  margin: 0 auto;
+  padding-left: 125px;
+  padding-top: 10px;
+
 }
 
 /* middle */
