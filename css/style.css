@@ -2,7 +2,7 @@ body {
   background-color: #fff;
   margin: 0;
   padding: 0;
-  min-width: 800px;
+  min-width: 900px;
 }
 
 h1{
@@ -31,9 +31,35 @@ p {
   text-align: justify;
   line-height: 28px;
 }
+p2 {
+  color: black;
+  font-size: 18px;
+  font-family: "Cambria", "Serif";
+  text-align: justify;
+  line-height: 28px;
+}
+p3 {
+  color: black;
+  font-size: 22px;
+  font-family: "Cambria", "Serif";
+  text-align: justify;
+  text-decoration: underline;
+  line-height: 28px;
+}
+pc {
+  text-align: center;
+}
+
+p4 {
+  color: lightblue;
+  font-size: 28px;
+  font-family: "Cambria", "Serif";
+  text-align: left;
+  line-height: 28px;
+} 
 
 #wrapper {
-  width: 800px;
+  width: 900px;
   text-align: left;
   margin: 0 auto;
 }
@@ -89,7 +115,7 @@ li a:hover:not(.active) {
 }
 
 #top > img {
-  width:800px;
+  width:900px;
   border: 2px solid #000;
 }
 .top-img {
@@ -100,7 +126,7 @@ li a:hover:not(.active) {
 
 /* middle */
 #intro {
-  width: 700px;
+  width: 740px;
   text-align: left;
   margin: 0 auto;
 }
@@ -122,8 +148,53 @@ li a:hover:not(.active) {
   padding: 5px;
 }
 
+.img-container2 {
+  float: center;
+  width: 32%;
+  padding: 2px;
+}
+
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
+}
+
+div.gallery {
+  border: 0px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 0px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 5px;
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  font-family: "Cambria", "Serif";
+}
+
+.responsive {
+  margin-left: 100px;
+  padding: 0 1px;
+  float: left;
+  width: 32%;
+}
+.responsive2 {
+  margin-right: 100px;
+  padding: 0 1px;
+  float: right;
+  width: 32%;
+}
+.responsive3 {
+  padding: 0 3px;
+  float: left;
+  width: 20%;
 }
