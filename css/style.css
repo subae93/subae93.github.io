@@ -71,7 +71,6 @@ ul {
   list-style-type: none;
   margin: 0px;
   padding: 0;
-  overflow: hidden;
   background-color: #333;
   display: flex;
   align-items: stretch;
@@ -92,6 +91,7 @@ li {
   justify-content: center;
   border-right:1px solid #fff;
   height: 50px;
+  text-align: center;
 }
 
 
