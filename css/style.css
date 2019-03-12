@@ -60,7 +60,7 @@ p4 {
 }
 
 #wrapper {
-  width: 900px;
+  width: 850px;
   text-align: left;
   margin: 0 auto;
 }
@@ -79,9 +79,9 @@ ul {
   flex-direction: row;
   border-bottom: 1px solid #fff;
   float:left;
-  width: 100%;
+  width: 850px;
   height: auto;
-  font-size: 14px
+  font-size: 13px
 }
 
 
@@ -103,7 +103,7 @@ li a {
   color: white;
   text-align: center;
   vertical-align: middle;
-  padding: 8px 14px;
+  padding: 5px 14px;
   text-decoration: none;
 }
 
@@ -120,7 +120,7 @@ li a:hover:not(.active) {
   border: 2px solid #000;
 }
 .top-img {
-  padding-left: 75px;
+  padding-left: 50px;
   padding-top: 10px;
 
 }
