@@ -59,7 +59,7 @@ p4 {
 }
 
 #wrapper {
-  width: 1000px;
+  width: 900px;
   text-align: left;
   margin: 0 auto;
 }
@@ -78,8 +78,9 @@ ul {
   flex-direction: row;
   border-bottom: 1px solid #fff;
   float:left;
-  width: 1000px;
+  width: 900px;
   height: auto;
+  font-size: 14px
 }
 
 
@@ -118,7 +119,7 @@ li a:hover:not(.active) {
   border: 2px solid #000;
 }
 .top-img {
-  padding-left: 125px;
+  padding-left: 75px;
   padding-top: 10px;
 
 }
