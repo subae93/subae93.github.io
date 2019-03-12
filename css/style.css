@@ -79,7 +79,7 @@ ul {
   flex-direction: row;
   border-bottom: 1px solid #fff;
   float:left;
-  width: 900px;
+  width: 100%;
   height: auto;
   font-size: 14px
 }
