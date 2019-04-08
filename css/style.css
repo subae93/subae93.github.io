@@ -199,3 +199,12 @@ div.desc {
   float: left;
   width: 20%;
 }
+
+/* for planaryspeaker */
+.PlanarySpeaker_img{
+  float: left;
+}
+#planaryspeaker {
+  border: 3px solid #4CAF50;
+    padding: 5px;
+}
