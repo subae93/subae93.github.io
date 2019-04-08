@@ -203,6 +203,7 @@ div.desc {
 /* for planaryspeaker */
 .PlanarySpeaker_img{
   float: left;
+  padding: 0 3px;
 }
 #planaryspeaker {
   border: 3px solid #4CAF50;
