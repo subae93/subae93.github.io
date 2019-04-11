@@ -218,6 +218,11 @@ div.desc {
   width: 20%;
 }
 
+.responsive4 {
+  padding: 3 0px;
+  float: center;
+  }
+
 /* for planaryspeaker */
 .PlanarySpeaker_img{
   float: left;
