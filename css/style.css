@@ -81,8 +81,15 @@ p6 {
   font-family: "Cambria", "Serif";
   text-align: center;
   line-height: 28px;
-
 }
+p62 {
+  color: red;
+  font-size: 18px;
+  font-family: "Cambria", "Serif";
+  text-align: center;
+  line-height: 28px;
+}
+
 
 p7 {
   color: black;
