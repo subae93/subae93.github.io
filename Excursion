@@ -1,1 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
+    <!--
+    <meta name="keywords" content="MTSA2019, TeraNano, OptoX-nano, Terahertz, Microwave, International conference, Okayama, Optics, Physics, ICT, infromation technolgy, T-Ray, millimeter wave">
+    <meta name="description" content="This symposium provides a forum for the exchange of information on the basic science, technology, and applications in microwave to terahertz wave region.   ">
+    <meta property="og:title" content="MTSA2019">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="http://www.ec.okayama-u.ac.jp/~sense/Terahertz/index.html//bdflashinfo/thumbnail.png">
+    <meta property="og:url" content="http://www.ec.okayama-u.ac.jp/~sense/Terahertz/index.html/">
+    <meta property="og:site_name" content="MTSA2017">
+    <meta property="og:description" content="This symposium provides a forum for the exchange of information on the basic science, technology, and applications in microwave to terahertz wave region.   ">
+    <link rel="canonical" href="http://www.ec.okayama-u.ac.jp/~sense/Terahertz/index.html/">
+-->
+
+    <title>MTSA 2019</title>
+
+  </head>
+  <body>
+  <div id="wrapper">
+
+    <div id="top">
+     <h1>MTSA 2019</h1>
+     <ul>
+        <li><a href="index.html"><div>Home</div></a></li>
+        <li><a href="venue.html"><div>Venue</div></a></li>
+        <li><a href="planaryspeaker.html"><div>Plenary<br>&<br>Invited Speakers</div></a></li>
+        <li><a href="abstract.html"><div>Abstract<br>Submission</div></a></li>
+        <li><a href="program.html"><div>Technical<br>Program</div></a></li>
+        <li><a href="registration.html"><div>Registration</div></a></li>
+        <li><a href="accomodation.html"><div>Accommodation</div></a></li>
+        <li><a href="committee.html"><div>Committee</div></a></li>
+        <li><a href="travel.html"><div>VISA &<br>Travel<br>Information</div></a></li>
+        <li><a href="sponsors.html"><div>Organizers<br>&<br>Sponsors</div></a></li>
+      </ul>
+       </div>
+
+    <div id="middle">
+      <br>
+      <hr>
+      <br>
+      <h2>Registration</h2>
+      <br>
+          <style>
+          table, td, th {
+            border: 2px solid #ddd;
+          }
+          table {
+            border-collapse: collapse;
+            width: 100%;
+          }
+          th {
+            padding: 15px;
+            text-align: center;
+            font-size: 20px;
+            font-weight: 900;
+          }
+          td {
+            padding: 15px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: 400;
+          }
+          </style>
+      <div class="clearfix">
+          <table>
+            <tr>
+              <th>Registration types</th>
+              <th>Before/On July 25, 2019</th>
+              <th>After July 25, 2019</th>
+            </tr>
+            <tr>
+              <td>Regular</td>
+              <td>USD 500 (or KRW 600,000)</td>
+              <td>USD 550 (or KRW 660,000)</td>
+            </tr>
+            <tr>
+              <td>Student</td>
+              <td>USD 250 (or KRW 300,000)</td>
+              <td>USD 300 (or KRW 360,000)</td>
+            </tr>
+          </table>
+       </div>
+      
+      <p63>- Registration fee includes admission to all technical sessions, abstract handbook, daily Coffee/Tea, lunch and   banquet.</p6><br>
+      <p62>- For excursion, please check your attendance in the registration form.</p62><br>
+      <p63>- Excursion fee for the conference attendee is KRW 50,000/person and will be paid at on-site desk.</p6><br>
+      <p63>- Excursion fee is waived for Plenary & Invited speakers.</p6><br> 
+      <p63>- When you make a payment in Korean currency, you should use Internet Explorer.</p6><br>       
+      <br><br><br><br>
+      
+      <p10>◆Payment Method</p10><br>
+      <p6> - Credit Card (VISA, MASTER, JCB, AMEX, Union Pay)</p6>
+      <br><br>
+      <p10>◆Cancellation and Refund Policy</p10><br>
+      <p6> -To cancel your registration, please contact the MTSA2019 secretariat via email (<p9>5th.MTSA2019@gmail.com</p9>).</p6><br>
+      <p6> -Please note that the refund will be made after conference and the registration fee is refundable as specified below.</p6><br>
+      
+      <div class="clearfix">     
+      <style>
+          table, td, th {
+            border: 1px solid black;
+          }
+          table {
+            border-collapse: collapse;
+            width: 100%;
+          }
+          th {
+            padding: 15px;
+            text-align: center;
+            font-size: 20px;
+            font-weight: 900;
+            background-color:lightgray
+          }
+          td {
+            padding: 15px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: 400;
+          }
+           
+          </style>
+      
+          <table>
+            <tr>
+              <th>Cancellation/Refund Request Date</th>
+              <th>Refund</th>
+            </tr>
+            <tr>
+              <td>Until September 8, 2019</td>
+              <td>100% Refund <br>(Exclusive of banking charges)</td>
+            </tr>
+            <tr>
+              <td>After September 9, 2019</td>
+              <td>No Refund</td>
+            </tr>
+          </table>
+      <div>
+
+      <h3>( The online registration system will open soon.)</h3>
+      </div>
+
+    <div id="bottom">
+     <br>
+   <div class="clearfix"></div>
+<hr>
+
+    </div>
+    </div>
+  </body>
+</html>
