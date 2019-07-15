@@ -84,6 +84,17 @@ p5 {
   line-height: 28px;
   margin-left: 10px;
 }
+
+p55 {
+  color: black;
+  font-size: 24px;
+  font-family: "Cambria", "Serif";
+  text-align: left;
+  text-decoration: line-through;
+  line-height: 28px;
+  margin-left: 10px;
+}
+
 p6 {
   color: black;
   font-size: 18px;
